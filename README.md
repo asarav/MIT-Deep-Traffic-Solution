@@ -1,7 +1,7 @@
 # MIT-Deep-Traffic-Solution
 My Solution to the MIT Deep Traffic Project for MIT 6.S094. https://selfdrivingcars.mit.edu/deeptraffic/
 
-This currently gets an average 65.725 mph with local evaluation after 20000 which is just enough to get a passing grade for the project. With more iterations, it gets a higher performance. Given that I didn't invest more than 2 hours on this, I consider that to be adequate. This configuration learns slowly, but seems to consistently stay outside of a local maximum.
+This currently gets an average 65.725 mph with local evaluation after 20000 iterations which is just enough to get a passing grade for the project. With more iterations, it gets a higher performance. Given that I didn't invest more than 2 hours on this, I consider that to be adequate. This configuration learns slowly, but seems to consistently stay outside of a local maximum.
 
 Some things to try if I have more time:
 * Increased batch size.
