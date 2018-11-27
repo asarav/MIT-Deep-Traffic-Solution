@@ -1,3 +1,5 @@
+![MIT Deep Traffic](https://selfdrivingcars.mit.edu/deeptraffic/car-red.png)
+
 # MIT-Deep-Traffic-Solution
 My Solution to the MIT Deep Traffic Project for MIT 6.S094. https://selfdrivingcars.mit.edu/deeptraffic/
 
